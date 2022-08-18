@@ -6,6 +6,6 @@ class Person
         puts "The Person is walking"
     end
 end
-Jay = Person.new
-puts Jay.talk
-puts Jay.walk
+jay = Person.new
+puts jay.talk
+puts jay.walk
